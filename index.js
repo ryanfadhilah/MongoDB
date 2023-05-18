@@ -92,3 +92,22 @@ mongoose
     }).catch((error) => {
         console.log(error)
     })
+
+    // Mongo Post
+    // http://localhost:3000/customer
+    
+    
+    // Mongo Get
+    // http://localhost:3000/customer
+    
+
+    // Mongo Get ID
+    // http://localhost:3000/customer/6465fc8d33d342d15d274790
+    
+
+    // Mongo Put
+    // http://localhost:3000/customer/6465fc8d33d342d15d274790
+
+
+    // Mongo Delete
+    // http://localhost:3000/customer/6466080670ec16c6fecef033
